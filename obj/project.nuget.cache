@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUNA1qcon9ao7Z208htNGTPg7YKxpDaMQTnE7NVmBa8bnjat6kOyjQF84kaClLgBYHglv8GRHW+0tTthTj1Dzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\apriftis\\source\\repos\\DemoApi\\DemoApi\\DemoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\apriftis\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
